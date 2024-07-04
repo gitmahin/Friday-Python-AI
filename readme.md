@@ -22,3 +22,40 @@
 16. search anything (using voice command)
 
 **In response, this AI will use its voice to tell you that, what is she doing?**
+
+## Update pip version
+```commandline
+python.exe -m pip install --upgrade pip
+```
+
+## Packages to install
+```commandline
+pip install SpeechRecognition
+```
+```commandline
+pip install pyttsx3
+```
+```commandline
+pip install wikipedia
+```
+```commandline
+pip install pywhatkit
+```
+```commandline
+pip install PyAutoGUI
+```
+```commandline
+pip install screen-brightness-control
+```
+```commandline
+pip install pytube
+```
+```commandline
+pip install speedtest-cli
+```
+```commandline
+pip install PyAudio
+```
+```commandline
+pip install setuptools
+```
